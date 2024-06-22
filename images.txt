@@ -1,6 +1,14 @@
 nginx
-iyuucn/iyuuplus-dev:latest
-jxxghp/moviepilot:latest
+iyuucn/iyuuplus-dev
+jxxghp/moviepilot
+sanjusss/aliyun-ddns
+developer024/networkdownload
+allanpk716/chinesesubfinder
+linuxserver/jackett
+nyanmisaka/jellyfin
+diluka/nas-tools:2.9.1
+lscr.io/linuxserver/qbittorrent
+lscr.io/linuxserver/transmission
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
